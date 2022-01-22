@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miquéias Fernandes</h1>
-<h3 align="center">Software Developer from Brazil</h3>
+<h3 align="center">Software Developer | Engineer from Brazil</h3>
 
 - 🔭 I’m currently working on [Bitfy](https://bitfy.app)
 
