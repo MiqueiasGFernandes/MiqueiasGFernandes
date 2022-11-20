@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/miqueias-fernandes/](https://www.linkedin.com/in/miqueias-fernandes/)
 
-- ⚡ Fun fact **I love theology and philosophy**
+- ⚡ Fun fact **I love theology and philosophy books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
