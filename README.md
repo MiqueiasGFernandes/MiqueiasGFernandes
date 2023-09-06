@@ -1,7 +1,7 @@
 <h1 align="center"> Miquéias Fernandes</h1>
 <h3 align="center">Mid-level Software Developer | Software Engineer from Brazil</h3>
 
-- 🔭 I’m currently working on [Bitfy](https://bitfy.app)
+- 🔭 I’m currently working on [Itaú Unibanco](https://www.itau.com.br/)
 
 - 👨‍💻 Some of my projects are available at [https://github.com/MiqueiasGFernandes/MiqueiasGFernandes](https://github.com/MiqueiasGFernandes/MiqueiasGFernandes)
 
