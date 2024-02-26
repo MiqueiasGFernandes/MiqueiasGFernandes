@@ -1,5 +1,5 @@
 <h1 align="center"> Miquéias Fernandes</h1>
-<h3 align="center">Mid-level Software Developer | Software Engineer from Brazil</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [Itaú Unibanco](https://www.itau.com.br/)
 
