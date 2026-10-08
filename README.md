@@ -34,14 +34,6 @@ I enjoy turning complex requirements into clear APIs, dependable integrations, a
 
 **Certification:** AWS Certified Solutions Architect – Associate.
 
-### Things I've built and explored
-
-- **Authentication API:** a NestJS project exploring JWT authentication, idempotency, and end-to-end testing.
-- **Feature flags:** a Java and Spring Boot project exploring targeting, gradual rollouts, caching, and expiration.
-- **AI engineering:** learning and building around ML foundations, RAG, and software agents.
-
-You can explore my public repositories [here](https://github.com/MiqueiasGFernandes?tab=repositories).
-
 ### Beyond code
 
 I like reading about theology and philosophy. They keep me curious about how people think, make decisions, and work together.
